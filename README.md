@@ -46,7 +46,7 @@
 ## Установка
 Для установки всех необходимых библиотек выполните следующую команду:
 ```python
-pip install pandas requests bs4 nltk sklearn numpy matplotlib google.colab pymorphy2 scipy
+pip install pandas requests bs4 nltk scikit-learn numpy matplotlib google.colab pymorphy2 scipy
 ```
 Также вам потребуется датасет [ru_sentiment_dataset](https://huggingface.co/datasets/MonoHime/ru_sentiment_dataset/blob/main/datasets.csv) для работы модели. Вы можете скачать его здесь.
 ## Описание файлов 
